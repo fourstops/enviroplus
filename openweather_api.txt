@@ -1,0 +1,5 @@
+
+api.openweathermap.org/data/2.5/weather?lat=39.3088&lon=-76.6271&appid=8ba7e6840fabb7da04357823621feede&units=imperial
+
+appid=8ba7e6840fabb7da04357823621feede
+
